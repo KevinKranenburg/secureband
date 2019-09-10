@@ -15,3 +15,6 @@ Fase3: zeker maken dat alles werkt
 Userstories, wireframes, images, code
 
 <h3In welke fase heb je deze documenten gemaakt:</h3>
+Fase1: wireframes en userstories
+Fase2: code
+Fase3: backlog
